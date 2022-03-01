@@ -1,5 +1,3 @@
-# Games on  [Play Store](https://play.google.com/store/apps/developer?id=XGame+Global)
-
 Below is a list of open source games and game-related projects that can be found on GitHub - old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins for commercial games, libraries, frameworks, engines, you name it.
 
 #### Contributing
